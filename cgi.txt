@@ -1,7 +1,7 @@
 addday/cgi-bin/addday.cgi
 addday/cgi-bin/passwd.cgi
 addday/cgi-bin/setup.cgi
-adv,/cgi-bin/weblogin.cgi?username=admin%27%3bls%20%23&password=asdf
+cgi-bin/weblogin.cgi?username=admin%27%3bls%20%23&password=asdf
 aktivate/cgi-bin/catgy.cgi
 awcuser/cgi-bin/vcs
 awstats/cgi-bin/awstats.pl
