@@ -1,5 +1,5 @@
 cgi-bin/test.sh
-cgi-bin/test.cgi
+cgi-bin/help.cgi
 cgi-bin/test-cgi
 wp-login.php
 addday/cgi-bin/addday.cgi
