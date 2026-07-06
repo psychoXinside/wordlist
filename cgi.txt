@@ -1,3 +1,7 @@
+cgi-bin/test.sh
+cgi-bin/test.cgi
+cgi-bin/test-cgi
+wp-login.php
 addday/cgi-bin/addday.cgi
 addday/cgi-bin/passwd.cgi
 addday/cgi-bin/setup.cgi
