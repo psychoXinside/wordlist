@@ -1,3 +1,4 @@
+cgi-bin/dmt/reset.cgi?db_prefix=&id&
 120b1.cgi
 14thmoon.cgi
 1.cgi
